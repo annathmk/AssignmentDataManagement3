@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{AA457136-8517-49CF-8F57-D867AAD065DE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Assignment3DataManmagement.UITests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Assignment3DataManmagement.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.13D57630-513A-444E-81BE-7F50450564DC" />
+  <MonoDevelop.Ide.ItemProperties.Assignment3DataManmagement.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3DataManmagement/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Assignment3DataManmagement/MainPage.xaml.cs" Line="31" Column="14" />
+      <File FileName="Assignment3DataManmagement/MainPage.xaml" />
+      <File FileName="Assignment3DataManmagement/App.xaml" />
+      <File FileName="Assignment3DataManmagement/AssemblyInfo.cs" />
+      <File FileName="Assignment3DataManmagement/Models/Film.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment3DataManmagement" expanded="True">
+            <Node name="Assignment3DataManmagement" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
